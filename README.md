@@ -1,4 +1,4 @@
-#Shopping-Mall-Customers-Segmentation
+# Shopping-Mall-Customers-Segmentation
 
 ### Objective
 Divide customers into separate groups to understand the targets for marketing approach.
