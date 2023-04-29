@@ -7,7 +7,7 @@ Divide customers into separate groups to understand the targets for marketing ap
  - What kinds of people are more dominant in spending money?
  - Which age groups are most likely to spend their money?
 ### Procedure of Segmentation & Analysis
- - Performing Qucik EDAs
+ - Performing Quick EDAs
  - Create segments with K-Means Clustering
  - Summary statistics on Clusters
  - Visualize the data
